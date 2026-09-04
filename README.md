@@ -8,10 +8,6 @@
 
 <div align="center">
 
-### 🏆 QUEST LOG (STATS)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mmsbox&theme=ocean)
-
 </div>
 
 <br/>
