@@ -4,6 +4,15 @@
 
 # 👾 GAME START ! 👾
 ###  WELCOME TO GUTGUB'S PROFILE !!
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpucDYyeGVxNm13dmI3dnFqcm1oNDExMmdzbjI5ZnRtZGZlMHhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v1vS8I1D3xN6g/giphy.gif" width="40px"/>
+
+<div align="center">
+
+### 🏆 QUEST LOG (STATS)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mmsbox&theme=ocean)
+
+</div>
 
 <br/>
 
@@ -14,6 +23,8 @@
 ![Docker](https://img.shields.io/badge/Docker-50FA7B?style=for-the-badge&logo=docker&logoColor=282A36)
 
 </div>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpudm9ocGF2cGhhZ3RxOTltYzVjcmZ1OHExMXprczFzeGRvMWdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3X9GvNVxjYBEm4JhU/giphy.gif" width="35px"/>
 
 <br/>
 
