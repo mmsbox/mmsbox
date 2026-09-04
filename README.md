@@ -36,3 +36,13 @@
 |  HP       : 100/100 ☕                           |
 |  MP       : 999/999 💡                          |
 +-------------------------------------------------+
+
+---
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=mmsbox&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mmsbox"
+  width="600"
+  height="300"
+/>
+</a>
