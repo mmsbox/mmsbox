@@ -1,10 +1,11 @@
 <div align="center">
-
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueWF1N2pweDFydXh6cmYxaWs2MWhxNGc0ODdrZzRqdG1vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R73L3uY79R7pMAtv/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueWF1N2pweDFydXh6cmYxaWs2MWhxNGc0ODdrZzRqdG1vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R73L3uY79R7pMAtv/giphy.gif)" width="160px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueWF1N2pweDFydXh6cmYxaWs2MWhxNGc0ODdrZzRqdG1vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R73L3uY79R7pMAtv/giphy.gif" width="160px"/>
 
 # 👾 GAME START ! 👾
+
 ### WELCOME TO GUTGUB'S PROFILE !!
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpucDYyeGVxNm13dmI3dnFqcm1oNDExMmdzbjI5ZnRtZGZlMHhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v1vS8I1D3xN6g/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpucDYyeGVxNm13dmI3dnFqcm1oNDExMmdzbjI5ZnRtZGZlMHhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v1vS8I1D3xN6g/giphy.gif)" width="40px"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpucDYyeGVxNm13dmI3dnFqcm1oNDExMmdzbjI5ZnRtZGZlMHhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v1vS8I1D3xN6g/giphy.gif" width="40px"/>
 
 <br/>
 <br/>
@@ -18,8 +19,7 @@
 <br/>
 <br/>
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpudm9ocGF2cGhhZ3RxOTltYzVjcmZ1OHExMXprczFzeGRvMWdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3X9GvNVxjYBEm4JhU/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpudm9ocGF2cGhhZ3RxOTltYzVjcmZ1OHExMXprczFzeGRvMWdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3X9GvNVxjYBEm4JhU/giphy.gif)" width="35px"/>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpudm9ocGF2cGhhZ3RxOTltYzVjcmZ1OHExMXprczFzeGRvMWdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3X9GvNVxjYBEm4JhU/giphy.gif" width="35px"/>
 </div>
 
 <br/>
@@ -36,3 +36,18 @@
 |  HP       : 100/100 ☕                          |
 |  MP       : 999/999 💡                          |
 +-------------------------------------------------+
+```
+
+---
+
+### 🐾 MY FARM
+
+<div align="center">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=mmsbox&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/mmsbox"
+    width="600"
+    height="300"
+  />
+</a>
+</div>
